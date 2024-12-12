@@ -30,7 +30,7 @@ class MyClient(botpy.Client):
 
         # embed = {
         #     "title": "embed消息",
-        #     "prompt": "消息透传显示",
+        #     "prompt.txt": "消息透传显示",
         #     "fields": [
         #         {"name": "<@!1234>hello world"},
         #         {"name": "<@!1234>hello world"},
